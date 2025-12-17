@@ -6,7 +6,7 @@ This repository contains the resources for the rewiring paper, organized into:
 	3.	CSV files with processed results
 
 ## 1. Zipped FASTA files
-Zipped FASTA files for the reef metagenomes are provided in this project as listed in Supplementary Table 1 of the manuscript.
+Zipped FASTA files for the reef metagenomes are provided in the  fastas/  directory, as listed in Supplementary Table 1 of the manuscript.
 Each zip archive contains one or more  .fasta  files representing viral or microbial communities from individual reef sites.
 See the manuscript Methods section for exact sample IDs and site metadata.
 
